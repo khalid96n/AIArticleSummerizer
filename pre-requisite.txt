@@ -1,1 +1,2 @@
-add .env file with VITE_RAPID_API_ARTICLE_KEY
+add .env file with VITE_RAPID_API_ARTICLE_KEY 
+having account in Rapid api
